@@ -14,10 +14,9 @@ book:
 
 format:
   html:
-    theme:
-      - cosmo
+    theme: cosmo
     toc: true
   pdf:
     documentclass: report
-    papersize: a5
+    papersize: a5paper
     toc: true

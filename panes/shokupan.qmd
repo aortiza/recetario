@@ -1,6 +1,6 @@
 ---
 title: "Shokupan"
-category: "Panes"
+categories: "Panes"
 ---
 ::: {.callout-note icon=false}
 
@@ -10,14 +10,17 @@ Receta adaptada de [Just One Cookbook](https://www.justonecookbook.com/shokupan-
 
 ## Ingredientes
 
-* (70% - 5% en caso de mucha humedad) 300 g (276 g) de leche
+* (65% - 70% dependiendo de la humedad) 276g - 300g de leche
+* (2%) 9 g de levadura seca activa
 * (8.5%) 36 g de azúcar
 * (100%) 425 g de harina de trigo
 * (2%) 9 g de sal
-* (2%) 9 g de levadura seca activa
 * (7%) 30 g de mantequilla sin sal, fria.
 
 ## Instrucciones
+
+Mezcla la leche, el azucar y la levadura en una taza y deja reposar por 10 minutos. Si el ambiente está caliente, usa sólo 100 g de leche, y el resto mantenlo en el refrigerador hasta que sea hora de integrarlo con la harina. 
+Mezcla en el tazón de la batidora la harina y la sal. Haz un hoyo en el centro y agrega la mezcla de leche, azucar y levadura. 
 
 ### Amasado
 
@@ -42,8 +45,9 @@ Receta adaptada de [Just One Cookbook](https://www.justonecookbook.com/shokupan-
 * Aplana la bola con la mano, o con un rodillo hasta formar un rectángulo. 
 * Dobla el rectángulo en tres partes, y vuelve a aplanar. Enrolla la tira que queda para formar un cilindro corto. 
 * Coloca los cilindros en un molde para pan con tapa, colocando la parte suave hacia arriba. 
-*Coloca la tapa y deja fermentar hasta que la masa llegue a 2 cm del borde del molde
+* Coloca la tapa y deja fermentar hasta que la masa llegue a 2 cm del borde del molde.
 
-### Horneado 
+### Horneado
 * Precalienta el horno a 210°C. 
 * Hornea por 30 minutos. 
+
