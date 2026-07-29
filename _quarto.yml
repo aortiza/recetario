@@ -1,0 +1,23 @@
+project:
+  type: book
+  output-dir: _site
+
+book:
+  title: "recetario"
+  author: "Antonio Ortiz-Ambriz"
+  date: last-modified
+  sidebar:
+    search: true
+  chapters:
+    - index.qmd
+    - panes/shokupan.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+    toc: true
+  pdf:
+    documentclass: report
+    papersize: a5
+    toc: true
