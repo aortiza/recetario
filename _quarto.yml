@@ -10,7 +10,12 @@ book:
     search: true
   chapters:
     - index.qmd
-    - panes/shokupan.qmd
+    - part: "Panes"
+      chapters:
+      - panes/shokupan.qmd
+    - part: "Postres"
+      chapters:
+      - postres/pastel_de_aceite.qmd
 
 format:
   html:
