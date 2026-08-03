@@ -13,6 +13,7 @@ book:
     - part: "Panes"
       chapters:
       - panes/shokupan.qmd
+      - panes/focaccia.qmd
     - part: "Postres"
       chapters:
       - postres/pastel_de_aceite.qmd
