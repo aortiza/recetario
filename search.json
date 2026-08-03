@@ -14,7 +14,7 @@
     "href": "index.html#panes",
     "title": "recetario",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\n\n\n\n\n\nShokupan\n\n\n\n\n\n\nNo matching items",
+    "text": "Order By\n      Default\n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\n\n\n\n\n\nFocaccia\n\n\n\n\n\n\nShokupan\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Colección de Recetas</span>"
     ]
@@ -63,36 +63,69 @@
     ]
   },
   {
-    "objectID": "postres/pastel_de_aceite.html",
-    "href": "postres/pastel_de_aceite.html",
-    "title": "3  Pastel de Aceite de Oliva",
+    "objectID": "panes/focaccia.html",
+    "href": "panes/focaccia.html",
+    "title": "3  Focaccia",
     "section": "",
     "text": "3.1 Ingredientes",
     "crumbs": [
+      "Panes",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Focaccia</span>"
+    ]
+  },
+  {
+    "objectID": "panes/focaccia.html#ingredientes",
+    "href": "panes/focaccia.html#ingredientes",
+    "title": "3  Focaccia",
+    "section": "",
+    "text": "(75%) 450 g de agua\n(2%) 12g de levadura seca activa\n(2%) 12 g de azúcar\n(100%) 600 g de harina de trigo\n(2%) 12 g de sal\n(20%) 120 g de aceite de oliva, dividido en dos partes",
+    "crumbs": [
+      "Panes",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Focaccia</span>"
+    ]
+  },
+  {
+    "objectID": "panes/focaccia.html#instrucciones",
+    "href": "panes/focaccia.html#instrucciones",
+    "title": "3  Focaccia",
+    "section": "3.2 Instrucciones",
+    "text": "3.2 Instrucciones\nMezcla el agua con la levadura y el azucar. Deja reposar por 10 minutos hasta que la levadura se active y se vea espumosa.\nEn otro tazón, mezcla la harina y la sal. Vie\nHaz un volcán con la harina, vierte la mitad del aceite en la parte de afuera y agrega la mezcla de agua y levadura en la parte de adentro. Mezcla de adentro hacia afuera hasta que se integre toda la harina.\nVierte en un tazón grande y cubre, con tapa o con plástico autoadherente, y deja reposar hasta que la masa doble su tamaño, más o menos una hora.\nPasa la masa a una bandeja para hornear engrasada con aceite de oliva y estira con las manos hasta que cubra toda la bandeja. Cubre y deja reposar por 30 minutos.\nVierte el resto del aceite de oliva sobre la masaa y haz hoyos con los dedos. Agrega hierbas al gusto.\nHornea a 220°C por 20-25 minutos, hasta que esté dorada.",
+    "crumbs": [
+      "Panes",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Focaccia</span>"
+    ]
+  },
+  {
+    "objectID": "postres/pastel_de_aceite.html",
+    "href": "postres/pastel_de_aceite.html",
+    "title": "4  Pastel de Aceite de Oliva",
+    "section": "",
+    "text": "4.1 Ingredientes",
+    "crumbs": [
       "Postres",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Pastel de Aceite de Oliva</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Pastel de Aceite de Oliva</span>"
     ]
   },
   {
     "objectID": "postres/pastel_de_aceite.html#ingredientes",
     "href": "postres/pastel_de_aceite.html#ingredientes",
-    "title": "3  Pastel de Aceite de Oliva",
+    "title": "4  Pastel de Aceite de Oliva",
     "section": "",
     "text": "250g de Harina de trigo\n9g de sal\n5g de bicarbonato de sodio\n5g de polvo para hornear\n185g de huevos (aproximadamente 3 huevos grandes)\n250g de azúcar\n220g de aceite de oliva extra virgen\n265g de leche\n65g de brandy\nLa ralladura y el jugo de una naranja.",
     "crumbs": [
       "Postres",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Pastel de Aceite de Oliva</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Pastel de Aceite de Oliva</span>"
     ]
   },
   {
     "objectID": "postres/pastel_de_aceite.html#instrucciones",
     "href": "postres/pastel_de_aceite.html#instrucciones",
-    "title": "3  Pastel de Aceite de Oliva",
-    "section": "3.2 Instrucciones",
-    "text": "3.2 Instrucciones\n\nPrecalienta el horno a 175°C. Engrasa un molde, coloca una cucharada de harina, sacude, y desarta el exceso.\nMezcla en un tazón la harina, la sal, el bicarbonato y el polvo para hornear.\nEn otro tazón (o preferiblemente en la batidora) bate los huevos y el azucar hasta que queden cremosos y agrega el aceite poco a poco.\nEn un tercer recipiente mezcla la leche, el brandy, la ralladura y el jugo de naranja.\nIntegra poco a poco la mezcla de harina con la mezcla de huevos y aceite, alternando con la mezcla de leche y brandy, procurando que quede homogéneo en cada paso.\nVierte en el molde, y hornea más o menos 50 minutos, hasta que la superficie este dorada y fime al tacto. Deja enfriar antes de desmoldar.\n\nSe puede decorar con crema batida y frutas frescas o con azucar glass espolvoreada.",
+    "title": "4  Pastel de Aceite de Oliva",
+    "section": "4.2 Instrucciones",
+    "text": "4.2 Instrucciones\n\nPrecalienta el horno a 175°C. Engrasa un molde, coloca una cucharada de harina, sacude, y desarta el exceso.\nMezcla en un tazón la harina, la sal, el bicarbonato y el polvo para hornear.\nEn otro tazón (o preferiblemente en la batidora) bate los huevos y el azucar hasta que queden cremosos y agrega el aceite poco a poco.\nEn un tercer recipiente mezcla la leche, el brandy, la ralladura y el jugo de naranja.\nIntegra poco a poco la mezcla de harina con la mezcla de huevos y aceite, alternando con la mezcla de leche y brandy, procurando que quede homogéneo en cada paso.\nVierte en el molde, y hornea más o menos 50 minutos, hasta que la superficie este dorada y fime al tacto. Deja enfriar antes de desmoldar.\n\nSe puede decorar con crema batida y frutas frescas o con azucar glass espolvoreada.",
     "crumbs": [
       "Postres",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Pastel de Aceite de Oliva</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Pastel de Aceite de Oliva</span>"
     ]
   }
 ]
